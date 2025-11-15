@@ -125,3 +125,23 @@ This is a comprehensive ticketing system that allows users to create, manage, an
 | `POST` | `/tickets/{ticketId}/attachments`   | Upload a file            | `isAuthenticated()` |
 | `GET`  | `/attachments/{attachmentId}`       | Download a file          | `isAuthenticated()` |
 
+## Screenshots
+
+### Login/Register
+<img width="1470" height="880" alt="Screenshot 2025-11-15 at 9 49 56 PM" src="https://github.com/user-attachments/assets/96c22457-752c-4d3a-8ac2-df474b8c1e95" />
+<img width="1470" height="879" alt="Screenshot 2025-11-15 at 9 50 12 PM" src="https://github.com/user-attachments/assets/16b672f2-a606-46de-9127-ad5fd46ffd6b" />
+
+### Dashboard with Tickets' Search & Filter
+<img width="1470" height="878" alt="Screenshot 2025-11-15 at 9 51 25 PM" src="https://github.com/user-attachments/assets/3e27f824-ea43-4565-9cc3-6734709b7c98" />
+
+### Create Ticket
+<img width="1470" height="879" alt="Screenshot 2025-11-15 at 9 53 34 PM" src="https://github.com/user-attachments/assets/ae65bf0a-fac3-406d-8bf4-9e91a25498f1" />
+
+### Ticket Details with File Attachments & Comments
+<img width="1470" height="878" alt="Screenshot 2025-11-15 at 9 58 58 PM" src="https://github.com/user-attachments/assets/64881919-940e-4947-80e2-0332dee49b18" />
+
+### Edit Ticket
+<img width="1470" height="880" alt="Screenshot 2025-11-15 at 10 00 34 PM" src="https://github.com/user-attachments/assets/6d6aafc6-3776-4d3a-9367-f78a6f9d37dd" />
+
+### User Management
+<img width="1470" height="878" alt="Screenshot 2025-11-15 at 10 01 15 PM" src="https://github.com/user-attachments/assets/33a04271-fee1-400e-b154-a436e0fc6688" />
